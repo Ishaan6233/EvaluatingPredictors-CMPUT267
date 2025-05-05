@@ -1,8 +1,8 @@
-# CMPUT 267 - Evaluating Predictors
+# Evaluating Predictors
 
 ## Overview
 
-This assignment explores the concepts of expected vs. estimated loss, bias-variance decomposition, model selection using test sets, and regularization in supervised learning. All tasks were completed in a Google Colab notebook and use synthetic data for visualization and analysis.
+This project explores the concepts of expected vs. estimated loss, bias-variance decomposition, model selection using test sets, and regularization in supervised learning. All tasks were completed in a Google Colab notebook and use synthetic data for visualization and analysis.
 
 ## Structure
 
